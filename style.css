@@ -20,6 +20,8 @@ body {
 .header__logo {
     height: 10vh;
     padding-left: 5rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
 }
 
 .nav__menu {
