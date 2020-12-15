@@ -26,12 +26,12 @@ body {
 
 .nav__menu {
     align-items: center;
-    padding-right: 10rem;
+    padding-right: 8rem;
 }
 
 .nav__item {
     display: inline;
-    padding: 2rem;
+    padding: 1.8rem;
 }
 
 .nav__link {
