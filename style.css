@@ -65,3 +65,21 @@ body {
     text-align: center;
     padding-top: 5rem;
 }
+
+.container {
+    display: flex;
+    width: 100;
+    justify-content: center;
+}
+
+.login_form {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(175, 172, 194, 0.849);
+    border: 1px solid #fff; 
+    width: 50rem;
+}
+
+.login_form h1 {
+    font-size: 3rem;
+}
