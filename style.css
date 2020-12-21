@@ -67,7 +67,8 @@ body {
 }
 
 .container {
-    display: flex;
+    display: flex;    
+    padding-top: 5rem;
     width: 100;
     justify-content: center;
 }
@@ -77,7 +78,7 @@ body {
     justify-content: center;
     background-color: rgba(175, 172, 194, 0.849);
     border: 1px solid #fff; 
-    width: 50rem;
+    width: 30rem;
 }
 
 .login_form h1 {
